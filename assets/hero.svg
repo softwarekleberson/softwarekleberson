@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#030711"/><stop offset=".55" stop-color="#0a0d1f"/><stop offset="1" stop-color="#24104d"/></linearGradient>
+<linearGradient id="title" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#b45cff"/><stop offset=".55" stop-color="#e1c7ff"/><stop offset="1" stop-color="#9f7aea"/></linearGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="24"/></filter>
+</defs>
+<rect width="1200" height="310" rx="18" fill="url(#bg)"/>
+<ellipse cx="940" cy="115" rx="270" ry="170" fill="#6d28d9" opacity=".17" filter="url(#blur)"/>
+<g opacity=".25" stroke="#8b5cf6" fill="none"><path d="M0 48H210L245 20H390"/><path d="M560 30H730L750 12H1010"/><path d="M835 285H1180"/></g>
+<g fill="#a855f7" opacity=".75"><circle cx="520" cy="28" r="2"/><circle cx="550" cy="28" r="2"/><circle cx="580" cy="28" r="2"/></g>
+<text x="54" y="62" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#d8b4fe">Hi, I'm 👋</text>
+<text x="52" y="128" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="700" fill="url(#title)">Kleberson Santos</text>
+<text x="56" y="170" font-family="Arial,Helvetica,sans-serif" font-size="25" letter-spacing="7" fill="#d7d2e8">&lt;/&gt; SOFTWARE ENGINEER</text>
+<text x="58" y="219" font-family="Georgia,serif" font-size="21" fill="#e9d5ff">“</text>
+<text x="82" y="219" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#f3edf9">Subindo no ombro de gigantes.</text>
+<text x="355" y="219" font-family="Georgia,serif" font-size="21" fill="#e9d5ff">”</text>
+<g font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#e9d5ff"><text x="60" y="265">◈ Clean Code</text><text x="205" y="265">◆ Architecture</text><text x="370" y="265">⬡ Domain-Driven Design</text><text x="590" y="265">◎ Problem Solver</text></g>
+<g transform="translate(860 52)"><path d="M0 180L22 45L75 5L132 24L176 105L148 185Z" fill="#050817" stroke="#9b5cff" stroke-opacity=".35"/><circle cx="87" cy="58" r="25" fill="#090a16"/><path d="M53 91Q87 72 121 92L151 157H27Z" fill="#111426"/><rect x="122" y="125" width="190" height="82" rx="8" fill="#080b18" stroke="#7c3aed" stroke-opacity=".55"/><rect x="138" y="140" width="158" height="4" rx="2" fill="#7c3aed" opacity=".7"/><rect x="138" y="152" width="120" height="4" rx="2" fill="#22d3ee" opacity=".55"/><rect x="138" y="164" width="145" height="4" rx="2" fill="#a855f7" opacity=".55"/><rect x="138" y="176" width="95" height="4" rx="2" fill="#34d399" opacity=".55"/></g>
+<rect x="1" y="1" width="1198" height="308" rx="18" fill="none" stroke="#8b5cf6" stroke-opacity=".55"/>
+</svg>
